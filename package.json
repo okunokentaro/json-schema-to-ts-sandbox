@@ -1,0 +1,24 @@
+{
+  "name": "json-schema-to-ts-sandbox",
+  "description": "",
+  "version": "0.0.0",
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/okunokentaro/json-schema-to-ts-sandbox/issues"
+  },
+  "engines": {
+    "node": "18.12.1",
+    "npm": "8.19.2"
+  },
+  "homepage": "https://github.com/okunokentaro/json-schema-to-ts-sandbox#readme",
+  "keywords": [],
+  "license": "ISC",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/okunokentaro/json-schema-to-ts-sandbox.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
